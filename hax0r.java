@@ -16,7 +16,7 @@ class hax0r {
       // opens notepad
       rs.exec("notepad");
       
-      // opens an dialog box
+      // opens a dialog box
       JOptionPane.showMessageDialog(null, "Sar...");
       
       // opens command prompt
