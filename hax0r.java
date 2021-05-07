@@ -17,7 +17,7 @@ class hax0r {
       rs.exec("notepad");
       
       // opens a dialog box
-      JOptionPane.showMessageDialog(null, "Sar...");
+      JOptionPane.showMessageDialog(null, "Sorry...");
       
       // opens command prompt
       String path = "c:\\";
