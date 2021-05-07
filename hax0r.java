@@ -9,7 +9,7 @@ class hax0r {
     int i = 0;
  
     try {
-    	
+    	// infinite loop
     	while (i < 1)
     	{
     		
